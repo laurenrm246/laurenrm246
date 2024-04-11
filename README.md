@@ -4,12 +4,10 @@ I am highly motivated and detail-oriented individual with 2 yearss of software d
 
 Check out some of my  Cyber Security development projects below.
 
-Active Directory Homelab
-
+Active Directory Homelab:
 https://github.com/laurenrm246/ActiveDirectory.git
 
-Microsoft Sentinel Homelab
-
+Microsoft Sentinel Homelab:
 https://github.com/laurenrm246/SIEMHoneyPot.git
 
 
