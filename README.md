@@ -1,6 +1,6 @@
 Hi , I am Lauren Miller :)
 
-I am highly motivated and detail-oriented individual with 2 years of software development experience with a passion for Cyber Security. I am currently building my skills through the use of various certifications and projects/labs to land my first Cyber Security Position.
+I am highly motivated and detail-oriented individual with 3 years of application development experience with a passion for Cyber Security. I am currently building my skills through the use of various certifications and projects/labs to land my first Cyber Security Position.
 
 Check out some of my  Cyber Security development projects below.
 
